@@ -12,3 +12,10 @@ Assignment for UCB Week one challenge. Challenge required Refactor of the Horise
 ## Deployment
 https://aaronquach123.github.io/coderefactor/ 
 
+## Screenshots
+
+```md 
+![Screenshot]
+
+(assets/images/screenshot-index)
+```

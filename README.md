@@ -13,7 +13,7 @@ Assignment for UCB Week one challenge. Challenge required Refactor of the Horise
 https://aaronquach123.github.io/coderefactor/ 
 
 ## Screenshots
-
+In the below screenshot I added some semantic elements to the header nav section and added some comments on the html to make it easier for me to navigate through the code. I found it especially helpful to do this when looking from my dev tools on chrome. 
  
-![Screenshot](./assets/images/screenshot-index.png)
+![Screenshot of header](./assets/images/screenshot-index.PNG)
 

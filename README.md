@@ -14,8 +14,6 @@ https://aaronquach123.github.io/coderefactor/
 
 ## Screenshots
 
-```md 
-![Screenshot]
+ 
+![Screenshot](assets/images/screenshot-index)
 
-(assets/images/screenshot-index)
-```
